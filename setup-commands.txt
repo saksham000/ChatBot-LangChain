@@ -1,5 +1,6 @@
 pipenv shell
 pipenv install langchain
 pipenv install langchain-openai
+pipenv install streamlit
 pipenv install langchain-community
 pipenv install langchainhub
